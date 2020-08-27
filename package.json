@@ -1,0 +1,16 @@
+{
+  "name": "test-a-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.1.2",
+    "sinon": "^9.0.3"
+  }
+}
